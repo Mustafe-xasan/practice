@@ -16,6 +16,7 @@ body{
 
 
 .btn{
+
     background-color: red;
     color: white;
     padding: 15px 20px;
@@ -26,12 +27,17 @@ body{
     margin-bottom: 100px;
     transition: all;
     transition-duration: 0.5s;
+
     transition-timing-function: ease-in-out;
 }
 
+
+
 .btn:hover{
     background-color: black;
+    color: white;
 }
+
 
 .dhaqaaq{
     margin-top: 30px;
